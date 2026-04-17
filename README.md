@@ -30,7 +30,3 @@ The page starts as a soft pastel garden and gradually fills with colorful flower
 
 No frameworks, no external dependencies, and no build step required.
 
-## File Structure
-
-```bash
-love_garden_single.html
